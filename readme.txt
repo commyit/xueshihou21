@@ -1,3 +1,3 @@
 Git  is  a  version Control
-Git  is  free  soft
+Git  is a  free  soft
 add  info  user branch  dev
